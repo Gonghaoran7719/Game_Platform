@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QQ截图20201128121724.png</file>
+        <file>大富翁.jpg</file>
+        <file>魂斗罗.jpg</file>
+        <file>忍者神龟.png</file>
+        <file>雪人兄弟.png</file>
+        <file>春天.png</file>
+        <file>胜利.png</file>
+    </qresource>
+</RCC>
