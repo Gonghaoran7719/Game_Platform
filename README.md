@@ -2,7 +2,8 @@
 大三在校学生，热爱IT  
 民间自发组织的Study Team 完成的休闲游戏平台
 # 项目展示
-<iframe src="//player.bilibili.com/player.html?aid=720466658&bvid=BV1uQ4y1r7NJ&cid=408432656&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1uQ4y1r7NJ?share_source=copy_web
+
 
 ## :ghost:
 基本功能： 类似于Steam、TGP等<br>
